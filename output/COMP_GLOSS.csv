@@ -1,0 +1,11 @@
+comp_id,pos,neg
+PC0,"['race', 'school', 'coloured', 'institution', 'industrial', 'colored', 'address', 'french', 'problem', 'american']","['master', 'mother', 'pray', 'mistress', 'prayer', 'child', 'soul', 'overseer', 'praise', 'night']"
+PC1,"['master', 'french', 'overseer', 'slave', 'mistress', 'island', 'whip', 'freedom', 'plantation', 'slavery']","['meeting', 'school', 'colored', 'praise', 'pastor', 'pray', 'street', 'prayer', 'race', 'blessing']"
+PC2,"['french', 'island', 'army', 'camp', 'war', 'liberty', 'guard', 'government', 'color', 'meeting']","['school', 'master', 'overseer', 'coloured', 'institution', 'mistress', 'farm', 'race', 'whip', 'mother']"
+PC3,"['coloured', 'antislavery', 'school', 'british', 'society', 'labour', 'river', 'boat', 'american', 'journey']","['race', 'colored', 'problem', 'institution', 'master', 'color', 'satisfied', 'responsible', 'labor', 'whilst']"
+PC4,"['antislavery', 'british', 'coloured', 'american', 'slavery', 'slave', 'whilst', 'society', 'law', 'poor']","['camp', 'french', 'army', 'guard', 'school', 'island', 'military', 'war', 'boat', 'officer']"
+PC5,"['colored', 'preach', 'overseer', 'pastor', 'preacher', 'sermon', 'meeting', 'district', 'master', 'religious']","['school', 'french', 'coloured', 'whilst', 'building', 'tone', 'nice', 'mother', 'teacher', 'room']"
+PC6,"['mother', 'school', 'overseer', 'father', 'child', 'love', 'district', 'preacher', 'french', 'sin']","['boat', 'river', 'journey', 'captain', 'road', 'steamer', 'race', 'oclock', 'colored', 'master']"
+PC7,"['camp', 'class', 'guard', 'examination', 'military', 'officer', 'tone', 'master', 'kitchen', 'whilst']","['mother', 'race', 'boat', 'island', 'river', 'french', 'journey', 'city', 'freedom', 'father']"
+PC8,"['camp', 'class', 'mother', 'antislavery', 'race', 'guard', 'american', 'coloured', 'british', 'father']","['master', 'district', 'committee', 'school', 'session', 'preach', 'french', 'preacher', 'pastor', 'doctor']"
+PC9,"['boat', 'ye', 'whilst', 'river', 'captain', 'journey', 'doctor', 'railroad', 'wretched', 'shore']","['master', 'mistress', 'french', 'coloured', 'meeting', 'plantation', 'horse', 'address', 'war', 'mother']"
